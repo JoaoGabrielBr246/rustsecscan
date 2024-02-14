@@ -3,7 +3,7 @@
 version = 3
 
 [[package]]
-name = "analisador_url"
+name = "rustsecscan"
 version = "0.1.0"
 dependencies = [
  "url",
