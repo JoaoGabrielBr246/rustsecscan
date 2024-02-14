@@ -15,7 +15,7 @@ Para executar este programa, você precisará ter o Rust e o Cargo instalados.
 
 1. Clique no botão "Code" verde neste repositório e selecione "Download ZIP".
 2. Extraia o arquivo ZIP em um local de sua escolha no seu computador.
-3. Você também pode clonar o repositório usando o Git no terminal: git clone https://github.com/seu_usuario/seu_repositorio.git
+3. Você também pode clonar o repositório usando o Git no terminal: git clone https://github.com/JoaoGabrielBr246/rustsecscan.git
 
 
 ## Como compilar e executar o programa
@@ -39,4 +39,5 @@ Para executar este programa, você precisará ter o Rust e o Cargo instalados.
 ## Observações
 - Certifique-se de ter todas as dependências necessárias instaladas antes de compilar o código.
 - Substitua `seu_usuario` e `seu_repositorio` pelo seu nome de usuário e nome do repositório GitHub, respectivamente.
+- Caso use baixe os arquivos exatamente como estão no github, pode usar direto o cargo run, que provavelmente irá funcionar, caso não, faça o passo a passo completo.
 
