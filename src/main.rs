@@ -14,7 +14,7 @@ fn main() {
 
     println!("Este programa foi criado para estudos de cibersegurança e programação.");
     println!("Não me responsabilizo por mau uso da ferramenta.");
-    println!("Feito por joaogabrocha. Github: https://github.com/JoaoGabrielBr246");
+    println!("Feito por joaogabrocha. Github: https://github.com/JoaoGabrielBr246\n");
 
     let mut url_str = String::new();
     print!("Digite a URL: ");
